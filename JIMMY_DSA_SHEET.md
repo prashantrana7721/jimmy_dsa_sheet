@@ -1,7 +1,7 @@
-<h1>JIMMY DSA SHEET</h1>
+<h1>JIMMY DSA 50 SHEET</h1>
 
 - <h4>Please Solve All The Approaches Thoroughly ( i.e: Brute-Force / Slightly Better / Better / Optimal ) To Master This Sheet !</h4>
-- <h4>This Sheet Will Cover 80% Of Your Tech Interview Coding Questions !</h4>
+- <h4>This Sheet Will Cover 80% Of Your Tech Coding Interview In Just 50 Questions !</h4>
 
 
 <h2>Arrays</h2>
