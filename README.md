@@ -24,9 +24,9 @@
 - [ Find First and Last Position of Element in Sorted Array ](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [ Trapping Rain Water ](https://leetcode.com/problems/trapping-rain-water/)
 - [ Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [ Top K Frequent Elements ( Heap ) ](https://leetcode.com/problems/top-k-frequent-elements/)
 - [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/)
 - [ Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)
-- [ Top K Frequent Elements ( Heap ) ](https://leetcode.com/problems/top-k-frequent-elements/)
 
 
 <h2>String</h2>
