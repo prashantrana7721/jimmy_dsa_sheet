@@ -26,11 +26,8 @@
 - [ Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [ Valid Sudoku ](https://leetcode.com/problems/valid-sudoku/)
 - [ Longest Consecutive Sequence ](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [ Top K Frequent Elements ( Heap ) ](https://leetcode.com/problems/top-k-frequent-elements/)
 
-
-<h2>Heap</h2>
-
-- [ Top K Frequent Elements ](https://leetcode.com/problems/top-k-frequent-elements/)
 
 <h2>String</h2>
 
@@ -51,7 +48,6 @@
 - [ Text Justification ](https://leetcode.com/problems/text-justification/)
 
 
-
 <h2>Searching</h2>
 
 - [ Binary Search ](https://leetcode.com/problems/binary-search/)
@@ -62,6 +58,7 @@
 - [ Search In Rotated Sorted Array ](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ Median of Two Sorted Arrays ](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
+
 <h2>Sorting</h2>
 
 - [ Merge Sorted Array ](https://leetcode.com/problems/merge-sorted-array/)
@@ -69,16 +66,6 @@
 - [ Sort List ](https://leetcode.com/problems/sort-list/)
 - [ Sort Colors ](https://leetcode.com/problems/sort-colors/)
 - [ Majority Element ](https://leetcode.com/problems/majority-element/)
-
-
-<h2>2 Pointer</h2>
-
-- [ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)
-- [ Two Sum II Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
-- [ 3Sum ](https://leetcode.com/problems/3sum/)
-- [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)
-- [ Trapping Rain Water ](https://leetcode.com/problems/two-sum/)
-- [ Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 
 
 <h2>Sliding Window</h2>
@@ -90,3 +77,14 @@
 - [ Permutation In String ](https://leetcode.com/problems/permutation-in-string/)
 - [ Minimum Window Substring ](https://leetcode.com/problems/minimum-window-substring/)
 - [ Sliding Window Maximum ](https://leetcode.com/problems/sliding-window-maximum/)
+
+
+<h2>2 Pointer</h2>
+
+- [ Valid Palindrome ](https://leetcode.com/problems/valid-palindrome/)
+- [ Two Sum II Input Array Is Sorted ](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [ 3Sum ](https://leetcode.com/problems/3sum/)
+- [ Container With Most Water ](https://leetcode.com/problems/container-with-most-water/)
+- [ Trapping Rain Water ](https://leetcode.com/problems/two-sum/)
+- [ Remove Duplicates from Sorted Array ](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
